@@ -1,0 +1,8 @@
+计算机是如何工作的？探索主内存，以DDR5为例
+
+https://www.bilibili.com/video/BV1vP411c7pt/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=0dcbc1761c82051a55e0f1c687036c75
+
+
+用最好的动画为你讲解--内存的原理
+
+https://www.bilibili.com/video/BV1Htr8YhELV/?spm_id_from=333.337.search-card.all.click&vd_source=3e5a655240ce5a4e85f1ec8d366e4c17

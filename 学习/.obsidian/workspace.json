@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "6c26ba36be603e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "373166fc65147140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d206db3a641692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内存测试报告自动化流水线设计方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "内存测试报告自动化流水线设计方案"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f020eb031c96dc67",
+    "type": "split",
+    "children": [
+      {
+        "id": "da0a7cffe73b7b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdc34b5ddb612e05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73b96f7de049f758",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eb6637cac0b26f94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b5f2ec490693985d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f12ce063fdc8816c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3389d5137bc17a3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "内存知识/内存/DIMM测试步法/七步法/超频性能检测.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "超频性能检测 的反向链接列表"
+            }
+          },
+          {
+            "id": "6b63d62b812fe96a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bf10e3fb462ffa03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2857699ffaafc6d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7b3b26eb1f206430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/4.8 学习DDR.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "4.8 学习DDR 的大纲"
+            }
+          },
+          {
+            "id": "23bb6573a8274279",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fdc34b5ddb612e05",
+  "lastOpenFiles": [
+    "copilot/提示词/提示词工程.md",
+    "软件使用指导书模板.md",
+    "copilot/LLM模型参数.md",
+    "内存知识/测试工具/Intel平台补充测试工具测试流程.md",
+    "内存知识/测试工具/Intel平台补充测试工具测试流程_v2.md",
+    "内存测试报告自动化流水线设计方案.md",
+    "LLM知识库/自动化流水线搭建思路（需要完善）.md",
+    "Photo/Pasted image 20260423095248.png",
+    "LLM知识库/Docker desktop的安装.md",
+    "LLM知识库/未命名.md",
+    "Photo/Pasted image 20260422115528.png",
+    "Photo/Pasted image 20260422115449.png",
+    "内存知识/内存/DIMM测试步法/三步法/存储单元检测.md",
+    "LLM知识库",
+    "内存条故障知识库.md",
+    "copilot/AI常用文章润色指令.md",
+    "Daily/4.9 建立内存知识框架.md",
+    "Obsidian用法/Obsidian 核心技能.md",
+    "Daily/4.21 Excel.md",
+    "copilot/提示词",
+    "Daily/4.17  三步法.md",
+    "Daily/4.15 了解EMC测试.md",
+    "Daily/4.16  掌握MemTest86.md",
+    "内存知识/内存/DIMM测试步法/三步法/数据线检测.md",
+    "内存知识/内存/DIMM测试步法/三步法/地址线检测.md",
+    "内存知识/内存/DIMM测试步法/五步法/抗干扰检测.md",
+    "内存知识/内存/DIMM测试步法/五步法/时序参数检测.md",
+    "内存知识/内存/DIMM测试步法/七步法/温度功耗检测.md",
+    "内存知识/内存/DIMM测试步法/七步法/老化检测.md",
+    "内存知识/内存/DIMM测试步法/七步法/超频性能检测.md",
+    "内存知识/内存/测试相关的服务器基础知识.md",
+    "Photo/Pasted image 20260416114006.png",
+    "Photo/写操作时序图.png",
+    "Photo/引脚定义表.png",
+    "Photo/Pasted image 20260414155940.png",
+    "Photo/Pasted image 20260414160409.png",
+    "Photo/Pasted image 20260414160602.png",
+    "Photo/Pasted image 20260414160718.png",
+    "Obsidian用法",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "内存知识/测试工具/ltp编译测试命令-arm架构.txt",
+    "内存知识/测试工具/ltp-full-20200930-编译及测试步骤.txt",
+    "内存知识/测试工具/STREAM-master安装编译_执行.txt",
+    "内存知识/测试工具/Lmbench延迟测试结果记录模版.xlsx",
+    "内存知识/测试工具/Lmbench工具延迟测试命令-X86架构.txt",
+    "未命名.canvas"
+  ]
+}

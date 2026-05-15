@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a9dd143098a03901",
+    "type": "split",
+    "children": [
+      {
+        "id": "48dbf0baffaa726b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d57fa228407b5039",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DDR基础课程/【资料】04.DDR基础课程 - 第5节 - DDR接口协议3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "【资料】04.DDR基础课程 - 第5节 - DDR接口协议3"
+            }
+          },
+          {
+            "id": "060ddf93e4478ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内存/DIMM测试步法/三步法/数据线检测.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据线检测"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4da29bb1ff4e49ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a0172aa42642ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c8619b36b5c8b2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8d0b6095b2d508a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5d0532af46cad73a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "5d9ce55f96e7ba4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f333f8078d7ed044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3149bf2778126c6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "【资料】03.DDR基础课程 - 第4节 - DDR接口协议2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【资料】03.DDR基础课程 - 第4节 - DDR接口协议2 的反向链接列表"
+            }
+          },
+          {
+            "id": "78b470f6ab791016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "【资料】03.DDR基础课程 - 第4节 - DDR接口协议2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【资料】03.DDR基础课程 - 第4节 - DDR接口协议2 的出链列表"
+            }
+          },
+          {
+            "id": "8306cfe086be4a22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "881542c2c6cd7de7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "23c962c6774660f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "【资料】03.DDR基础课程 - 第4节 - DDR接口协议2.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【资料】03.DDR基础课程 - 第4节 - DDR接口协议2 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "060ddf93e4478ec5",
+  "lastOpenFiles": [
+    "内存/DIMM测试步法/三步法/存储单元检测.md",
+    "内存/DIMM测试步法/DIMM测试步法.md",
+    "内存/DIMM测试步法/五步法/时序参数检测.md",
+    "内存/DIMM测试步法/三步法/数据线检测.md",
+    "内存/DIMM测试步法/三步法/地址线检测.md",
+    "内存/内存基础知识（全掌握版）.md",
+    "内存/内存基础知识（精简版）.md",
+    "内存/高速缓存行.md",
+    "内存/numa/numa节点内存分配策略.md",
+    "内存/numa/配置HugePage.md",
+    "内存/numa/内存池化实现.md",
+    "内存/内存学习总结-db.md",
+    "内存/DDR核心信号详解.md",
+    "内存/pin.md",
+    "内存/memtester.md",
+    "内存/memtest86.md",
+    "内存/IC位宽.md",
+    "内存/内存交织.md",
+    "内存/预取prefetch.md",
+    "内存/突发传输.md",
+    "内存/DIMM测试步法/七步法/老化检测.md",
+    "内存/DIMM测试步法/七步法/超频性能检测.md",
+    "内存/DIMM测试步法/五步法/抗干扰检测.md",
+    "内存/测试相关的服务器基础知识.md",
+    "DDR基础课程/【资料】07.DDR基础课程 - 第8节 - DDR控制器基本结构.pdf",
+    "DDR基础课程/【资料】08.DDR基础课程 - 第9节 - DDR PHY基本结构.pdf",
+    "DDR基础课程/【资料】01.DDR基础课程 - 第2节 - DRAM的特点.pdf",
+    "DDR基础课程/【资料】09.DDR基础课程 - 第10节 - DDR基础课程总结.pdf",
+    "DDR基础课程/【资料】06.DDR基础课程 - 第7节 - DDR子系统基本结构.pdf",
+    "DDR基础课程/【资料】05.DDR基础课程 - 第6节 - DDR接口协议4.pdf",
+    "DDR基础课程/【资料】04.DDR基础课程 - 第5节 - DDR接口协议3.pdf",
+    "DDR基础课程/【资料】03.DDR基础课程 - 第4节 - DDR接口协议2.pdf",
+    "DDR基础课程/【资料】02.DDR基础课程 - 第3节 - DDR接口协议1.pdf",
+    "内存/从硬件角度看内存管理：解锁计算机底层性能原理.pdf"
+  ]
+}

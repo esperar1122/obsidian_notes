@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "513d391fc2e863dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "deef68f776cc0e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a28087cdd9b145e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_个人成长/如何建立工程思维模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何建立工程思维模式"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bf3629028eb8012",
+    "type": "split",
+    "children": [
+      {
+        "id": "f185c80847ad60f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f036084fb7ad26e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0c72e9e917e3aecb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "da58018c5cccc120",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5785a0bab6a9f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "00435106cc96f78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daf7b046fca2ef92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_个人成长/如何建立工程思维模式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "如何建立工程思维模式 的反向链接列表"
+            }
+          },
+          {
+            "id": "5071570922f6fae5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_个人成长/如何建立工程思维模式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "如何建立工程思维模式 的出链列表"
+            }
+          },
+          {
+            "id": "bdbf2780489efb71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "949feb6ab8b0538d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c8368703dd74d222",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_个人成长/如何建立工程思维模式.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "如何建立工程思维模式 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "6a28087cdd9b145e",
+  "lastOpenFiles": [
+    "10_个人成长/Excel搭建 `案例数据库`.md",
+    "10_个人成长/如何建立工程思维模式.md",
+    "09_行业研究/技术路线.md",
+    "09_行业研究/行业报告.md",
+    "09_行业研究/原厂动态.md",
+    "09_行业研究/存储市场.md",
+    "09_行业研究/国产替代.md",
+    "09_行业研究/AI服务器.md",
+    "09_行业研究/DDR行业趋势.md",
+    "08_流程体系/质量体系.md",
+    "08_流程体系/ECR流程.md",
+    "08_流程体系/ECN流程.md",
+    "08_流程体系/版本管理.md",
+    "08_流程体系/测试流程.md",
+    "08_流程体系/客诉流程.md",
+    "08_流程体系/研发流程.md",
+    "07_供应链与物料/封装工艺.md",
+    "07_供应链与物料/PMIC供应商.md",
+    "07_供应链与物料/PCB供应商.md",
+    "07_供应链与物料/南亚颗粒.md",
+    "07_供应链与物料/长鑫颗粒.md",
+    "07_供应链与物料/海力士颗粒.md",
+    "07_供应链与物料/三星颗粒.md",
+    "06_项目记录/5.14 xxx项目名称.md",
+    "05_失效案例/链路FAIL.md",
+    "05_失效案例/SPD异常.md",
+    "02_产品体系/Server Memory",
+    "02_产品体系/UDIMM",
+    "02_产品体系/RDIMM",
+    "02_产品体系/DDR5",
+    "02_产品体系/DDR4",
+    "附件库",
+    "09_行业研究",
+    "08_流程体系",
+    "10_个人成长",
+    "07_供应链与物料"
+  ]
+}
