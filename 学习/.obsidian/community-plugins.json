@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "copilot"
+  "copilot",
+  "obsidian-git"
 ]
