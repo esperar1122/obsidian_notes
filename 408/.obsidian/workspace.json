@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "513d391fc2e863dd",
+    "id": "0675ae1553285497",
     "type": "split",
     "children": [
       {
-        "id": "deef68f776cc0e43",
+        "id": "577e44ae1ee71ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "6a28087cdd9b145e",
+            "id": "a9dd0bacbae41fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_测试与验证/ATE测试数据_Word报告_正向同步提示词.md",
+                "file": "欢迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATE测试数据_Word报告_正向同步提示词"
+              "title": "欢迎"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3bf3629028eb8012",
+    "id": "1fbb3400700420aa",
     "type": "split",
     "children": [
       {
-        "id": "f185c80847ad60f6",
+        "id": "b00a7dbc7dba888a",
         "type": "tabs",
         "children": [
           {
-            "id": "f036084fb7ad26e3",
+            "id": "2ca47c81824e088f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "0c72e9e917e3aecb",
+            "id": "3b7e32431c9accfb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "da58018c5cccc120",
+            "id": "c395c870c62aa18b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,51 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d5785a0bab6a9f10",
+    "id": "a00cd04618c8e1e6",
     "type": "split",
     "children": [
       {
-        "id": "00435106cc96f78c",
+        "id": "85d658ad41418236",
         "type": "tabs",
         "children": [
           {
-            "id": "daf7b046fca2ef92",
+            "id": "fde7e2cd6cc29005",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_个人成长/Ubuntu测试及运维常用指令集.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Ubuntu测试及运维常用指令集 的反向链接列表"
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
-            "id": "5071570922f6fae5",
+            "id": "f545de6e77dbdd9b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_个人成长/Ubuntu测试及运维常用指令集.md",
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ubuntu测试及运维常用指令集 的出链列表"
+              "title": "欢迎 的出链列表"
             }
           },
           {
-            "id": "bdbf2780489efb71",
+            "id": "31c694e2df8d03d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "949feb6ab8b0538d",
+            "id": "50c2bca6b81fad9f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,31 +151,29 @@
             }
           },
           {
-            "id": "c8368703dd74d222",
+            "id": "b6ab5c562042d392",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_技术知识/认识电路板.md",
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "认识电路板 的大纲"
+              "title": "欢迎 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,53 +183,8 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6a28087cdd9b145e",
+  "active": "a9dd0bacbae41fdd",
   "lastOpenFiles": [
-    "04_测试与验证/颗粒测试报告提示词.md",
-    "04_测试与验证/ATE测试数据_Word报告_正向同步提示词.md",
-    "03_技术知识/mem_reboot_auto_解读文档.md",
-    "03_技术知识/信号完整性.md",
-    "03_技术知识/eMMC（基础+拆解）.md",
-    "02_产品体系/SDRAM",
-    "02_产品体系/未命名.md",
-    "02_产品体系/SODIMM",
-    "03_技术知识/PCB设计.md",
-    "03_技术知识/ECC机制.md",
-    "03_技术知识/电源完整性.md",
-    "03_技术知识/高速总线.md",
-    "03_技术知识/内存训练.md",
-    "03_技术知识/认识电路板.md",
-    "03_技术知识/温度影响.md",
-    "04_测试与验证/DRAM_SI-时序验证.md",
-    "04_测试与验证/BurnInTest.md",
-    "04_测试与验证/外观测试.md",
-    "04_测试与验证/链路测试.md",
-    "04_测试与验证/MemTest86.md",
-    "04_测试与验证/LTP.md",
-    "04_测试与验证/Lmbench.md",
-    "10_个人成长/网线接水晶头.md",
-    "09_行业研究/Datasheet 经验.md",
-    "10_个人成长/如何无U盘介质安装双系统.md",
-    "10_个人成长/Ubuntu测试及运维常用指令集.md",
-    "10_个人成长/Prompt 案例库.md",
-    "10_个人成长/Excel搭建 `案例数据库`.md",
-    "附件库/截图/Pasted image 20260528181159.png",
-    "附件库/DDR4_SPD_对比分析_自研参考.xlsx",
-    "02_产品体系/RDIMM/DDR4_SPD_对比分析_自研参考.xlsx",
-    "附件库/截图",
-    "附件库/新建文件夹",
-    "附件库/Pasted image 20260528181159.png",
-    "附件库/JEDEC 标准协议/JESD79-4C.pdf",
-    "附件库/JEDEC 标准协议/JESD21-C Release 4 Annex L.pdf",
-    "附件库/JEDEC 标准协议",
-    "附件库/JESD79-4C.pdf",
-    "Pasted image 20260528181159.png",
-    "附件库/无U盘双系统安装流程/ISOBoot Edit code.png",
-    "附件库/无U盘双系统安装流程/Manage Menu.png",
-    "附件库/无U盘双系统安装流程/Grub2 boot Menu.png",
-    "附件库/无U盘双系统安装流程/Grub2 boot Interface.png",
-    "附件库/无U盘双系统安装流程/1ea4207872a74f15ba65958c02de6db7_o_1779073484001.png",
-    "附件库/无U盘双系统安装流程/9a480f62033649b0adc6d44ec6020f05_o_1779073425306.png",
-    "附件库/无U盘双系统安装流程/Configuration complete Interface.png"
+    "欢迎.md"
   ]
 }
