@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "deef68f776cc0e43",
+        "id": "0994c8cb9169869d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a28087cdd9b145e",
+            "id": "f5a66da9c65086c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "附件库/JEDEC 标准协议/JESD21-C Release 4 Annex L.pdf"
+                "file": "Drawing 2026-08-18 10.12.33.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "JESD21-C Release 4 Annex L"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-18 10.12.33.excalidraw"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -183,8 +185,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f036084fb7ad26e3",
+  "active": "f5a66da9c65086c4",
   "lastOpenFiles": [
+    "短线战法.md",
+    "Drawing 2026-08-18 10.12.33.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-14 16.54.32.excalidraw.md",
+    "Pasted image 20260810150102.png",
+    "07_供应链与物料/环境测试.md",
+    "03_技术知识/mem_reboot_auto_解读文档.md",
+    "04_测试与验证/链路测试.md",
+    "04_测试与验证/外观测试.md",
+    "未命名.base",
+    "Excalidraw/Drawing 2026-07-28 10.27.43.excalidraw.md",
+    "Excalidraw",
+    "附件库/JEDEC 标准协议/JESD21-C Release 4 Annex L.pdf",
     "附件库/DDR4 SPD解读.xlsx",
     "附件库/DDR4 SPD解读-.xlsx",
     "附件库/JEDEC 标准协议/JESD82-31A.01-2023.pdf",
@@ -192,9 +206,7 @@
     "附件库/JEDEC 标准协议/JESD84-B51B.pdf",
     "附件库/JEDEC 标准协议/JESD79-4D-DDR4.pdf",
     "附件库/JEDEC 标准协议/JESD79-4C.pdf",
-    "附件库/JEDEC 标准协议/JESD21-C Release 4 Annex L.pdf",
     "附件库/grub2win（去掉后缀保留zip）.md",
-    "03_技术知识/mem_reboot_auto_解读文档.md",
     "03_技术知识/eMMC（基础+拆解）.md",
     "03_技术知识/PCB设计.md",
     "03_技术知识/ECC机制.md",
@@ -208,20 +220,11 @@
     "01_公司业务/竞争对手.md",
     "01_公司业务/商业模式.md",
     "01_公司业务/盈利逻辑.md",
-    "04_测试与验证/链路测试.md",
-    "04_测试与验证/外观测试.md",
     "04_测试与验证/ATE测试数据_Word报告_正向同步提示词.md",
     "04_测试与验证/DRAM_SI-时序验证.md",
     "04_测试与验证/MemTest86.md",
     "04_测试与验证/LTP.md",
-    "04_测试与验证/Lmbench.md",
-    "04_测试与验证/BurnInTest.md",
-    "03_技术知识/认识电路板.md",
-    "10_个人成长/网线接水晶头.md",
-    "02_产品体系/SDRAM",
-    "02_产品体系/SODIMM",
     "附件库/截图/Pasted image 20260528181159.png",
-    "附件库/DDR4_SPD_对比分析_自研参考.xlsx",
     "附件库/Pasted image 20260528181159.png",
     "Pasted image 20260528181159.png",
     "附件库/无U盘双系统安装流程/ISOBoot Edit code.png",
@@ -229,7 +232,6 @@
     "附件库/无U盘双系统安装流程/Grub2 boot Menu.png",
     "附件库/无U盘双系统安装流程/Grub2 boot Interface.png",
     "附件库/无U盘双系统安装流程/1ea4207872a74f15ba65958c02de6db7_o_1779073484001.png",
-    "附件库/无U盘双系统安装流程/9a480f62033649b0adc6d44ec6020f05_o_1779073425306.png",
-    "附件库/无U盘双系统安装流程/Configuration complete Interface.png"
+    "附件库/无U盘双系统安装流程/9a480f62033649b0adc6d44ec6020f05_o_1779073425306.png"
   ]
 }

@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -205,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "907c5a4b36018fbd",
+  "active": "fdc34b5ddb612e05",
   "lastOpenFiles": [
-    "copilot/提示词/降低AIGC.md",
     "Excalidraw/Drawing 2026-07-03 15.27.28.excalidraw.md",
+    "copilot/提示词/降低AIGC.md",
     "copilot/提示词/提示词工程.md",
     "copilot/AI常用文章润色指令.md",
     "copilot/LLM模型参数.md",
